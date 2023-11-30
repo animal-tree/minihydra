@@ -1,3 +1,4 @@
+<img width="50%" alt="logo" src="https://github.com/animal-tree/minihydra/assets/142250284/5de30581-c323-4c74-8e50-5bb91cd89b1e">
 
 ```console
 pip install minihydra
@@ -118,5 +119,7 @@ For deeper documentation, please consider [sponsoring](https://github.com/sponso
 [//]: # (### yaml search paths)
 
 [//]: # (project directory inference, instantiation tinkering inference, portals, pseudonyms)
+
+<img width="60%" alt="logo" src="https://github.com/animal-tree/minihydra/assets/142250284/77803168-0569-4b53-92a7-d62193f30083">
 
 [Licensed under the MIT license.](MIT_LICENSE)
