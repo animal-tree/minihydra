@@ -1,7 +1,7 @@
 <img width="50%" alt="logo" src="https://github.com/animal-tree/minihydra/assets/142250284/5de30581-c323-4c74-8e50-5bb91cd89b1e">
 
 ```console
-pip install minihydra
+pip install minihydra-leviathan
 ```
 
 ### Reading in args
